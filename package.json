@@ -1,0 +1,14 @@
+{
+    "name": "RecallServer",
+    "description": "A server to record and show the Recall Number game's result.",
+    "main": "./Server",
+    "author": "Haiqiang <chqlb@yahoo.cn>",
+    "version": "0.0.1",
+    "engines": {
+        "node": ">=0.4.0"
+    },
+    "dependencies": {
+        "restify" : "*",
+        "mongodb" : "*"
+    }
+}
